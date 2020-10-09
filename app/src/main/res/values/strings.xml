@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LatihanSQLite</string>
+    <string name="input_nama">Input nama</string>
+    <string name="input_alamat">Input alamat</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="id">ID</string>
+    <string name="nama">NAMA</string>
+    <string name="alamat">ALAMAT</string>
+</resources>
